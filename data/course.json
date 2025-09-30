@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Spanish"
+    ]
+  ],
+  "legacy_uid": "bedf1018-53fd-73d9-0454-f4bfcd85d473",
+  "instructors": {
+    "content": [
+      "aadce98f-d4f3-8608-de20-134ce8fb3180"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "35f941d2-9467-fe8d-22b6-5cde818a3321",
+    "website": "21g-705-oral-communication-in-spanish-spring-2004"
+  },
+  "course_title": "Oral Communication in Spanish",
+  "hide_download": true,
+  "course_description": "A second-year intermediate course that includes vocabulary enhancement and limited review of selected points of grammar. Focuses on listening comprehension and speaking, with group activities, discussions and individual oral reports based on readings, films, music and art.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.705",
+  "course_image_thumbnail": {
+    "content": "3ce4b042-3f08-2a4e-47ae-a74dc707c7e4",
+    "website": "21g-705-oral-communication-in-spanish-spring-2004"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "acaf0f7a-26cd-47e9-9b25-809ed0c2b9e1",
+  "site_short_id": "21g.705-spring-2004",
+  "site_url_path": "courses/21g-705-oral-communication-in-spanish-spring-2004",
+  "title": "Course Metadata"
+}
